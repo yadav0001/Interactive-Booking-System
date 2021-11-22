@@ -1,0 +1,428 @@
+naveenyadav@pc-140-193 src % javac MainProgram.java && java MainProgram
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+c
+Client Name: Anna Jones
+Client Name: Michael Jones
+Client Name: Ted Smith
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+e
+Event Name: Bobsleigh
+Tickets Left: 41
+Event Name: Curling
+Tickets Left: 8
+Event Name: Figure Skating
+Tickets Left: 7
+Event Name: Ice Hockey
+Tickets Left: 2
+Event Name: Ski Jumping
+Tickets Left: 66
+Event Name: Snowboarding
+Tickets Left: 4
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+b
+Enter the Client First name and Second name separated with space
+Anna Jones
+Enter Event name :
+Snowboarding
+Number of Tickets to be Ordered:
+3
+3 tickets bought for event-Snowboarding
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+b
+Enter the Client First name and Second name separated with space
+Anna Jones
+Enter Event name :
+Curling
+Number of Tickets to be Ordered:
+2
+2 tickets bought for event-Curling
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+c
+Client Name: Anna Jones
+Events: Curling Tickets Bought: 2
+Events: Snowboarding Tickets Bought: 3
+Client Name: Michael Jones
+Client Name: Ted Smith
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+e
+Event Name: Bobsleigh
+Tickets Left: 41
+Event Name: Curling
+Tickets Left: 6
+Event Name: Figure Skating
+Tickets Left: 7
+Event Name: Ice Hockey
+Tickets Left: 2
+Event Name: Ski Jumping
+Tickets Left: 66
+Event Name: Snowboarding
+Tickets Left: 1
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+r
+Enter the Client First name and Second name separated with space
+Anna Jones
+Enter Event name :
+Curling
+Number of Tickets to be Cancelled:
+2
+2 tickets Cancelled/returned for event - Curling
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+e
+Event Name: Bobsleigh
+Tickets Left: 41
+Event Name: Curling
+Tickets Left: 8
+Event Name: Figure Skating
+Tickets Left: 7
+Event Name: Ice Hockey
+Tickets Left: 2
+Event Name: Ski Jumping
+Tickets Left: 66
+naveenyadav@pc-140-193 src % javac MainProgram.java && java MainProgram
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+e
+Event Name: Bobsleigh
+Tickets Left: 41
+Event Name: Curling
+Tickets Left: 8
+Event Name: Figure Skating
+Tickets Left: 7
+Event Name: Ice Hockey
+Tickets Left: 2
+Event Name: Ski Jumping
+Tickets Left: 66
+Event Name: Snowboarding
+Tickets Left: 4
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+c
+Client Name: Anna Jones
+Client Name: Michael Jones
+Client Name: Ted Smith
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+b
+Enter the Client First name and Second name separated with space
+Anna Jones
+Enter Event name :
+Figure Skating
+Number of Tickets to be Ordered:
+3
+3 tickets bought for event-Figure Skating
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+b
+Enter the Client First name and Second name separated with space
+Anna Jones
+Enter Event name :
+Curling
+Number of Tickets to be Ordered:
+2
+2 tickets bought for event-Curling
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+b
+Enter the Client First name and Second name separated with space
+Anna Jones
+Enter Event name :
+Ski Jumping
+Number of Tickets to be Ordered:
+30
+30 tickets bought for event-Ski Jumping
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+b
+Enter the Client First name and Second name separated with space
+Anna Jones
+Enter Event name :
+Snowboarding
+Number of Tickets to be Ordered:
+3
+You can't buy tickets for more than 3 events
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+c
+Client Name: Anna Jones
+Events: Curling Tickets Bought: 2
+Events: Figure Skating Tickets Bought: 3
+Events: Ski Jumping Tickets Bought: 30
+Client Name: Michael Jones
+Client Name: Ted Smith
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+e
+Event Name: Bobsleigh
+Tickets Left: 41
+Event Name: Curling
+Tickets Left: 6
+Event Name: Figure Skating
+Tickets Left: 4
+Event Name: Ice Hockey
+Tickets Left: 2
+Event Name: Ski Jumping
+Tickets Left: 36
+Event Name: Snowboarding
+Tickets Left: 4
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+b
+Enter the Client First name and Second name separated with space
+Ted Smith
+Enter Event name :
+Snowboarding
+Number of Tickets to be Ordered:
+50
+Not Enough Tickets left for the Event-Snowboarding
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+b
+Enter the Client First name and Second name separated with space
+Ted Smith
+Enter Event name :
+Snowboarding
+Number of Tickets to be Ordered:
+4
+4 tickets bought for event-Snowboarding
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+b
+Enter the Client First name and Second name separated with space
+Michael Jones
+Enter Event name :
+Snowboarding
+Number of Tickets to be Ordered:
+1
+Not Enough Tickets left for the Event-Snowboarding
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+b
+Enter the Client First name and Second name separated with space
+Micheal Jones
+You are not a valid Client
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+b
+Enter the Client First name and Second name separated with space
+Michael Jones
+Enter Event name :
+Curling
+Number of Tickets to be Ordered:
+3
+3 tickets bought for event-Curling
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+c
+Client Name: Anna Jones
+Events: Curling Tickets Bought: 2
+Events: Figure Skating Tickets Bought: 3
+Events: Ski Jumping Tickets Bought: 30
+Client Name: Michael Jones
+Events: Curling Tickets Bought: 3
+Client Name: Ted Smith
+Events: Snowboarding Tickets Bought: 4
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+e
+Event Name: Bobsleigh
+Tickets Left: 41
+Event Name: Curling
+Tickets Left: 3
+Event Name: Figure Skating
+Tickets Left: 4
+Event Name: Ice Hockey
+Tickets Left: 2
+Event Name: Ski Jumping
+Tickets Left: 36
+Event Name: Snowboarding
+Tickets Left: 0
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+r
+Enter the Client First name and Second name separated with space
+Anna Jones
+Enter Event name :
+Curling
+Number of Tickets to be Cancelled:
+2
+2 tickets Cancelled/returned for event - Curling
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+c
+Client Name: Anna Jones
+Events: Figure Skating Tickets Bought: 3
+Events: Ski Jumping Tickets Bought: 30
+Client Name: Michael Jones
+Events: Curling Tickets Bought: 3
+Client Name: Ted Smith
+Events: Snowboarding Tickets Bought: 4
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+r
+Enter the Client First name and Second name separated with space
+Ted Smith
+Enter Event name :
+Snowboarding
+Number of Tickets to be Cancelled:
+5
+Not Enough Tickets left for Cancelation for the event - Snowboarding
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+r
+Enter the Client First name and Second name separated with space
+Ted Smith
+Enter Event name :
+Bobsleigh
+You don't have tickets for this Event
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+r
+Enter the Client First name and Second name separated with space
+Ted Smith
+Enter Event name :
+Curling
+You don't have tickets for this Event
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+r
+Enter the Client First name and Second name separated with space
+Ted Smith
+Enter Event name :
+Snowboarding
+Number of Tickets to be Cancelled:
+2
+2 tickets Cancelled/returned for event - Snowboarding
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+c
+Client Name: Anna Jones
+Events: Figure Skating Tickets Bought: 3
+Events: Ski Jumping Tickets Bought: 30
+Client Name: Michael Jones
+Events: Curling Tickets Bought: 3
+Client Name: Ted Smith
+Events: Snowboarding Tickets Bought: 2
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+e
+Event Name: Bobsleigh
+Tickets Left: 41
+Event Name: Curling
+Tickets Left: 5
+Event Name: Figure Skating
+Tickets Left: 4
+Event Name: Ice Hockey
+Tickets Left: 2
+Event Name: Ski Jumping
+Tickets Left: 36
+Event Name: Snowboarding
+Tickets Left: 2
+f - to finish running the program
+e - to display on the screen information about all the events
+c - to display on the screen information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets
+f
+Exiting the Program
+naveenyadav@pc-140-193 src % 
